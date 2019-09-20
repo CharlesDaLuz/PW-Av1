@@ -1,0 +1,27 @@
+.jumbotron {
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px 25px;
+}
+
+hr {
+  border: 2px solid red;
+  border-radius: 5px;
+}
+
+footer .glyphicon {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.cabecalho {
+padding-top:5px;
+background:url(img/fundo.png) no-repeat;
+background-color: #28a745;
+margin-top:0px;
+}
+
+.busca{
+	border-radius: 15px;
+}

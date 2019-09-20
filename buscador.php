@@ -2,7 +2,7 @@
 echo '<div class="jumbotron text-center">
 		<form action="busca.php" method="post" class="navbar-form" role="search" onsubmit="return valida()">
 			<div class="form-group"><label for="busca">Buscar:</label>
-				<input type="text" id="busca1" name="busca" class="form-control input-sm" placeholder="Digite aqui...">
+				<input type="text" id="busca1" name="busca" class="form-control input-sm busca" placeholder="Digite aqui...">
 			</div>
 			<button type="submit" class="btn btn-default btn-md"><span class="glyphicon glyphicon-search"></span> </button>
 		</form>
